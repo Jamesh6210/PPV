@@ -21,7 +21,7 @@ jobs:
           node-version: 22
       
       - name: Install Depencendies
-        run: npm ci
+        run: npm install
       
       - name: Run
         run: npm run start
