@@ -1,5 +1,8 @@
 name: Update M3U Playlists
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/30 * * * *" # Every 30 minutes
