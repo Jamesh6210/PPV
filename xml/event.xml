@@ -131,28 +131,6 @@ channel="ppv-8035"
 <icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_nx3tnqet/width/640" />
 </programme>
 
-<channel id="ppv-8034">
-<display-name>PDC: China ProTour 3</display-name>
-</channel>
-<programme
-start="20250525010000 +0000"
-stop="20250525160000 +0000"
-channel="ppv-8034"
->
-<title lang="en">PDC: China ProTour 3</title>
-<sub-title>Darts</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Darts</category>
-<icon src="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_coe8z456/width/640" />
-</programme>
-
 <channel id="ppv-8064">
 <display-name>Athletic Club vs Barcelona</display-name>
 </channel>
@@ -459,28 +437,6 @@ channel="ppv-8091"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://i.imgur.com/3z0N5BP.jpeg" />
-</programme>
-
-<channel id="ppv-8090">
-<display-name>2025 IIHF Men&apos;s World Championship: Bronze Medal - Sweden vs. Denmark</display-name>
-</channel>
-<programme
-start="20250525132000 +0000"
-stop="20250525162000 +0000"
-channel="ppv-8090"
->
-<title lang="en">2025 IIHF Men&apos;s World Championship: Bronze Medal - Sweden vs. Denmark</title>
-<sub-title>Ice Hockey</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Ice Hockey</category>
-<icon src="https://i.imgur.com/1WOF6Ap.jpeg" />
 </programme>
 
 <channel id="ppv-8079">
@@ -833,50 +789,6 @@ channel="ppv-8089"
 </audio>
 <category>Motorsports</category>
 <icon src="https://i.imgur.com/skmmcPF.png" />
-</programme>
-
-<channel id="ppv-8020">
-<display-name>F1: Monaco GP (Race)</display-name>
-</channel>
-<programme
-start="20250525130000 +0000"
-stop="20250525160000 +0000"
-channel="ppv-8020"
->
-<title lang="en">F1: Monaco GP (Race)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://i.imgur.com/bxxp548.png" />
-</programme>
-
-<channel id="ppv-8021">
-<display-name>F1: Monaco GP (Race, F1TV Feed)</display-name>
-</channel>
-<programme
-start="20250525130000 +0000"
-stop="20250525160000 +0000"
-channel="ppv-8021"
->
-<title lang="en">F1: Monaco GP (Race, F1TV Feed)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://i.imgur.com/bxxp548.png" />
 </programme>
 
 <channel id="ppv-8094">
