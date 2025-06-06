@@ -619,8 +619,8 @@ channel="ppv-8363"
 <display-name>Roland-Garros Feed 1</display-name>
 </channel>
 <programme
-start="20250607010000 +0000"
-stop="20250607070000 +0000"
+start="20250606130000 +0000"
+stop="20250606190000 +0000"
 channel="ppv-8470"
 >
 <title lang="en">Roland-Garros Feed 1</title>
@@ -634,15 +634,15 @@ channel="ppv-8470"
 <stereo>stereo</stereo>
 </audio>
 <category>Miscellaneous</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZSMUGbM.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fpadelmagazine.fr%2Fwp-content%2Fuploads%2F2020%2F01%2Froland-garros-2020-1.jpg@jpg" />
 </programme>
 
 <channel id="ppv-8471">
 <display-name>Roland-Garros Feed 2</display-name>
 </channel>
 <programme
-start="20250607010000 +0000"
-stop="20250607070000 +0000"
+start="20250606130000 +0000"
+stop="20250606190000 +0000"
 channel="ppv-8471"
 >
 <title lang="en">Roland-Garros Feed 2</title>
@@ -656,7 +656,7 @@ channel="ppv-8471"
 <stereo>stereo</stereo>
 </audio>
 <category>Miscellaneous</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZSMUGbM.png@jpg" />
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fpadelmagazine.fr%2Fwp-content%2Fuploads%2F2020%2F01%2Froland-garros-2020-1.jpg@jpg" />
 </programme>
 
 <channel id="ppv-8341">
