@@ -593,72 +593,6 @@ channel="ppv-8484"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Foc8UmAa.png@jpg" />
 </programme>
 
-<channel id="ppv-8402">
-<display-name>Coastal Carolina vs. Auburn</display-name>
-</channel>
-<programme
-start="20250607010000 +0000"
-stop="20250607042100 +0000"
-channel="ppv-8402"
->
-<title lang="en">Coastal Carolina vs. Auburn</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FZSMUGbM.png@jpg" />
-</programme>
-
-<channel id="ppv-8476">
-<display-name>Arizona Diamondbacks vs. Cincinnati Reds</display-name>
-</channel>
-<programme
-start="20250606231000 +0000"
-stop="20250607041000 +0000"
-channel="ppv-8476"
->
-<title lang="en">Arizona Diamondbacks vs. Cincinnati Reds</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FoRoN55X.png@jpg" />
-</programme>
-
-<channel id="ppv-8469">
-<display-name>Sparks at Wings</display-name>
-</channel>
-<programme
-start="20250607013000 +0000"
-stop="20250607041500 +0000"
-channel="ppv-8469"
->
-<title lang="en">Sparks at Wings</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-dal%2F1280x720.png@jpg" />
-</programme>
-
 <channel id="ppv-8492">
 <display-name>UFC 316: Dvalishvili vs O&apos;Malley 2</display-name>
 </channel>
@@ -679,6 +613,138 @@ channel="ppv-8492"
 </audio>
 <category>Combat Sports</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FJshoBdp.png@jpg" />
+</programme>
+
+<channel id="ppv-8524">
+<display-name>PDC: DJD Masters  - Board 5</display-name>
+</channel>
+<programme
+start="20250608150000 +0000"
+stop="20250608200000 +0000"
+channel="ppv-8524"
+>
+<title lang="en">PDC: DJD Masters  - Board 5</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_bw7b1nzy%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8525">
+<display-name>PDC: DJD Masters 2025</display-name>
+</channel>
+<programme
+start="20250608150000 +0000"
+stop="20250608200000 +0000"
+channel="ppv-8525"
+>
+<title lang="en">PDC: DJD Masters 2025</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_igq6a459%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8526">
+<display-name>PDC: DJD Masters  - Board 2</display-name>
+</channel>
+<programme
+start="20250608150000 +0000"
+stop="20250608200000 +0000"
+channel="ppv-8526"
+>
+<title lang="en">PDC: DJD Masters  - Board 2</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_ynxp3saz%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8527">
+<display-name>PDC: DJD Masters  - Board 3</display-name>
+</channel>
+<programme
+start="20250608150000 +0000"
+stop="20250608200000 +0000"
+channel="ppv-8527"
+>
+<title lang="en">PDC: DJD Masters  - Board 3</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_nwno7ha6%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8528">
+<display-name>PDC: DJD Masters  - Board 4</display-name>
+</channel>
+<programme
+start="20250608150000 +0000"
+stop="20250608200000 +0000"
+channel="ppv-8528"
+>
+<title lang="en">PDC: DJD Masters  - Board 4</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_vce2toua%2Fwidth%2F640@jpg" />
+</programme>
+
+<channel id="ppv-8523">
+<display-name>PDC: Women&apos;s Series 15-16</display-name>
+</channel>
+<programme
+start="20250608090000 +0000"
+stop="20250608220000 +0000"
+channel="ppv-8523"
+>
+<title lang="en">PDC: Women&apos;s Series 15-16</title>
+<sub-title>Darts</sub-title>
+<video>
+<present>yes</present>
+<colour>yes</colour>
+</video>
+<audio>
+<present>yes</present>
+<stereo>stereo</stereo>
+</audio>
+<category>Darts</category>
+<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_57tdbm0m%2Fwidth%2F640@jpg" />
 </programme>
 
 <channel id="ppv-8467">
