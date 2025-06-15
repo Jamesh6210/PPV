@@ -109,72 +109,6 @@ channel="ppv-8736"
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FfbkYlke.png@jpg" />
 </programme>
 
-<channel id="ppv-8733">
-<display-name>Minnesota Twins vs. Houston Astros</display-name>
-</channel>
-<programme
-start="20250615181000 +0000"
-stop="20250615211000 +0000"
-channel="ppv-8733"
->
-<title lang="en">Minnesota Twins vs. Houston Astros</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FmMEg35L.png@jpg" />
-</programme>
-
-<channel id="ppv-8734">
-<display-name>Athletics vs. Kansas City Royals</display-name>
-</channel>
-<programme
-start="20250615181000 +0000"
-stop="20250615211000 +0000"
-channel="ppv-8734"
->
-<title lang="en">Athletics vs. Kansas City Royals</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FWms2TJc.png@jpg" />
-</programme>
-
-<channel id="ppv-8735">
-<display-name>St. Louis Cardinals vs. Milwaukee Brewers</display-name>
-</channel>
-<programme
-start="20250615181000 +0000"
-stop="20250615211000 +0000"
-channel="ppv-8735"
->
-<title lang="en">St. Louis Cardinals vs. Milwaukee Brewers</title>
-<sub-title>Baseball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Baseball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsjhnVQl.png@jpg" />
-</programme>
-
 <channel id="ppv-8725">
 <display-name>Mercury at Aces</display-name>
 </channel>
@@ -195,28 +129,6 @@ channel="ppv-8725"
 </audio>
 <category>Basketball</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fphx-lva%2F1280x720.png@jpg" />
-</programme>
-
-<channel id="ppv-8724">
-<display-name>Dream at Mystics</display-name>
-</channel>
-<programme
-start="20250615180000 +0000"
-stop="20250615204500 +0000"
-channel="ppv-8724"
->
-<title lang="en">Dream at Mystics</title>
-<sub-title>Basketball</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Basketball</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fatl-was%2F1280x720.png@jpg" />
 </programme>
 
 <channel id="ppv-8694">
@@ -393,27 +305,5 @@ channel="ppv-8367"
 </audio>
 <category>Ice Hockey</category>
 <icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsOLq2hh.png@jpg" />
-</programme>
-
-<channel id="ppv-8672">
-<display-name>F1: Canada GP (Race)</display-name>
-</channel>
-<programme
-start="20250615180000 +0000"
-stop="20250615210000 +0000"
-channel="ppv-8672"
->
-<title lang="en">F1: Canada GP (Race)</title>
-<sub-title>Motorsports</sub-title>
-<video>
-<present>yes</present>
-<colour>yes</colour>
-</video>
-<audio>
-<present>yes</present>
-<stereo>stereo</stereo>
-</audio>
-<category>Motorsports</category>
-<icon src="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FumsmA1y.png@jpg" />
 </programme>
 </tv>
